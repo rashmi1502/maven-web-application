@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Coffeeland - Poll SCM Demo</h1>
-<h1 align="center"> Welcome to Coffeeland nursery...Various kinds of fruits and vegetable samplings, contact me on 8497070663</h1>
+<h1 align="center">Welcome to Chowki Estate - Poll SCM Demo</h1>
+<h1 align="center"> Welcome to Chowki Estate...Various kinds of fruits and vegetable samplings, contact me on 8497070663</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
