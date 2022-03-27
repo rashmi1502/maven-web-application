@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.93.107:8081/repository/rashmi-snapshot/</url>
+	      <url>http://15.206.93.107:8081/repository/rupesh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
